@@ -5,7 +5,7 @@
 
 Projeto de site construído do evento Next Level Week da Rocketseat.
 
-[Clique aqui para dar uma olhada](.https://khasam.github.io/EDEN-explorer/) 🔗
+[🔗Clique aqui para dar uma olhada](.https://khasam.github.io/EDEN-explorer/)
 
 ## 💻Tecnologias:
 
